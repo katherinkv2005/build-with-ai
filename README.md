@@ -39,6 +39,7 @@ Add project screenshots:
 
 
 screenshot1.png
+image.png
 ---
 
 ## Demo Video
