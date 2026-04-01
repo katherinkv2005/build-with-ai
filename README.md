@@ -51,13 +51,14 @@ Upload your demo video to Google Drive and paste the shareable link here(max 3 m
 
 ```bash
 # Clone the repository
-git clone <your-repo-link>
+git clone https://github.com/katheirnkv2005/shadow-ai-governance.git
+   
 
 # Go to project folder
-cd project-name
-
+cd shadow-ai-governance
 # Install dependencies
 npm install
-
+cp .env.example .env
+   # Add your Gemini API key and Google Chronicle credentials to .env
 # Run the project
 npm start
