@@ -37,8 +37,8 @@ Attach screenshots in a `/proof` folder:
 ## Screenshots 
 Add project screenshots:
 
-![Screenshot1](./assets/screenshot1.png)  
-![Screenshot2](./assets/screenshot2.png)
+https://github.com/katherinkv2005/build-with-ai/blob/main/image.png
+
 
 ---
 
