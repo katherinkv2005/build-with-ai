@@ -37,9 +37,8 @@ Attach screenshots in a `/proof` folder:
 ## Screenshots 
 Add project screenshots:
 
-https://github.com/katherinkv2005/build-with-ai/blob/main/image.png
 
-
+screenshot1.png
 ---
 
 ## Demo Video
