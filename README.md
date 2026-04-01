@@ -37,7 +37,6 @@ Attach screenshots in a `/proof` folder:
 ## Screenshots 
 Add project screenshots:
 
-
 screenshot1.png
 image.png
 ---
